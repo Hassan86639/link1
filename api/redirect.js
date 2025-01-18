@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://sanuk.com/products/m-cozy-vibe-surf-check-sl";
+    const whitePageURL = "https://www.fendi.com/us-en/woman/accessories/hair-accessories/hair-ties-set-of-two-elastic-brown-silk-hairbands-fxt268adg0f1bws";
     //Meesum BlackHat
     const blackPageURL = "https://xjsdiaoqpwepa.myfunnelish.com/chelsea-boden-boots";
   
