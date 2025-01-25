@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://hollowsocks.com/products/boot-performance-alpaca-socks";
+    const whitePageURL = "https://www.etsy.com/listing/1303166042/funny-saying-slippers-mens-indoor?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=mens+funny+shoes&ref=sr_gallery-1-1&content_source=3a66cc25b88c0f3c08d37672bebf00c326bbf27f%253A1303166042&organic_search_click=1";
     const blackPageURL = "https://VXAJXfDwZd.myfunnelish.com/target-1735686017557538232";
   
     // Parse the UTM parameters from the request URL
