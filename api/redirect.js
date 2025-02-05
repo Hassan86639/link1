@@ -1,7 +1,7 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.etsy.com/listing/1303166042/funny-saying-slippers-mens-indoor?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=mens+funny+shoes&ref=sr_gallery-1-1&content_source=3a66cc25b88c0f3c08d37672bebf00c326bbf27f%253A1303166042&organic_search_click=1";
-    const blackPageURL = "https://VXAJXfDwZd.myfunnelish.com/target-1735686017557538232";
+    const whitePageURL = "https://www.simons.ca/en/men-underwear/socks/athletic-socks/solid-ribbed-athletic-socks--21214-24301?catId=6625&colourId=61";
+    const blackPageURL = "https://vxajxfdwzd.myfunnelish.com/cash-1735686017557538-1736022022043965-1736024393533984";
   
     // Parse the UTM parameters from the request URL
     const queryParams = new URLSearchParams(req.url.split('?')[1]);
